@@ -10,6 +10,7 @@
   ],
   "version": "0.0.1",
   "dependencies": {
+    "joi": "^9.0.4",
     "rx": "^4.1.0"
   },
   "repository": "git@github.com:platdesign/durga.git",
