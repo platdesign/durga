@@ -1,0 +1,24 @@
+{
+  "name": "durga",
+  "description": "realtime data",
+  "author": [
+    {
+      "name": "Christian Blaschke",
+      "email": "mail@platdesign.de",
+      "url": "https://github.com/platdesign"
+    }
+  ],
+  "version": "0.0.0",
+  "dependencies": {
+    "rx": "^4.1.0"
+  },
+  "repository": "git@github.com:platdesign/durga.git",
+  "homepage":"https://github.com/platdesign/durga",
+  "devDependencies": {
+    "code": "^3.0.2",
+    "mocha": "^3.0.2"
+  },
+  "scripts":{
+    "test":"mocha"
+  }
+}
